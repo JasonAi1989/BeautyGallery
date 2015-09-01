@@ -13,6 +13,7 @@
 		96BDB3D61B95C2EB007B25BF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96BDB3D51B95C2EB007B25BF /* Images.xcassets */; };
 		96BDB3D91B95C2EB007B25BF /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 96BDB3D71B95C2EB007B25BF /* LaunchScreen.xib */; };
 		96BDB3E51B95C2EB007B25BF /* BeautyGalleryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96BDB3E41B95C2EB007B25BF /* BeautyGalleryTests.swift */; };
+		96BDB3EF1B95D84C007B25BF /* GalleryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96BDB3EE1B95D84C007B25BF /* GalleryViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		96BDB3DE1B95C2EB007B25BF /* BeautyGalleryTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BeautyGalleryTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		96BDB3E31B95C2EB007B25BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		96BDB3E41B95C2EB007B25BF /* BeautyGalleryTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeautyGalleryTests.swift; sourceTree = "<group>"; };
+		96BDB3EE1B95D84C007B25BF /* GalleryViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GalleryViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				96BDB3CE1B95C2EB007B25BF /* AppDelegate.swift */,
 				96BDB3D01B95C2EB007B25BF /* ViewController.swift */,
+				96BDB3EE1B95D84C007B25BF /* GalleryViewController.swift */,
 				96BDB3D21B95C2EB007B25BF /* Main.storyboard */,
 				96BDB3D51B95C2EB007B25BF /* Images.xcassets */,
 				96BDB3D71B95C2EB007B25BF /* LaunchScreen.xib */,
@@ -212,6 +215,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				96BDB3EF1B95D84C007B25BF /* GalleryViewController.swift in Sources */,
 				96BDB3D11B95C2EB007B25BF /* ViewController.swift in Sources */,
 				96BDB3CF1B95C2EB007B25BF /* AppDelegate.swift in Sources */,
 			);
