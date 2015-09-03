@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F2BF2247-7C18-4013-AAB8-6E1F5E5F1D50</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BeautyGallery</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>75490A8753A29D73A03490CAC42AAE879F7EA96B</key>
+		<string>https://github.com/JasonAi1989/BeautyGallery2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BeautyGallery.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>75490A8753A29D73A03490CAC42AAE879F7EA96B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JasonAi1989/BeautyGallery2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>75490A8753A29D73A03490CAC42AAE879F7EA96B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>75490A8753A29D73A03490CAC42AAE879F7EA96B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BeautyGallery</string>
+		</dict>
+	</array>
+</dict>
+</plist>
