@@ -58,7 +58,7 @@ class GalleryViewController: UIViewController {
     @IBAction func shareImage(sender: AnyObject) {
         
         //这个类型的变量在分享之前会显示在view中，包含文字之类的
-        var controller: SLComposeViewController = SLComposeViewController(forServiceType: SLServiceTypeFacebook)
+        let controller: SLComposeViewController = SLComposeViewController(forServiceType: SLServiceTypeFacebook)
         
         controller.setInitialText("女神画廊App好好玩，大家快来一起玩吧！")
         controller.addImage(beatyView.image)

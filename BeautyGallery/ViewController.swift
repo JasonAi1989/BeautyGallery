@@ -33,7 +33,7 @@ class ViewController: UIViewController {
         if segue.identifier == "GoToGallery"
         {
             let index = beautyPicker.selectedRowInComponent(0)
-            println(index)
+            print(index)
             var imageName: String?
             switch index
             {
@@ -47,7 +47,7 @@ class ViewController: UIViewController {
                 break
             }
             
-            var peer = segue.destinationViewController as! GalleryViewController
+            let peer = segue.destinationViewController as! GalleryViewController
             peer.imageName = imageName
         }
     }

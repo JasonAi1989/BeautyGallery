@@ -159,6 +159,8 @@
 		96BDB3C11B95C2EB007B25BF /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0700;
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = JasonAi;
 				TargetAttributes = {
@@ -413,6 +415,7 @@
 				96BDB3EA1B95C2EB007B25BF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		96BDB3EB1B95C2EB007B25BF /* Build configuration list for PBXNativeTarget "BeautyGalleryTests" */ = {
 			isa = XCConfigurationList;
@@ -421,6 +424,7 @@
 				96BDB3ED1B95C2EB007B25BF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
